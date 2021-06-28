@@ -1,0 +1,28 @@
+#if
+if(condition) instruction;
+else instruction;
+
+#switch
+switch(expression {");
+case constant:
+sequence of instructions
+break;
+// ...
+"}
+
+#for
+for (initialization; condition; iteration) instruction;
+
+#while
+"while(condition) instruction;
+
+#do-while
+do {
+instruction;
+} while (condition);
+
+#break
+break; or break mark"
+
+#Instruction continue
+continue; or continue mark
